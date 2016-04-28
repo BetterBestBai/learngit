@@ -6,3 +6,4 @@ My stupid boss still prefers SVN.
 Creating a new branch is quick and simple.
 Analysis of management strategies.
 fenzhi guanli celve
+bug fix
